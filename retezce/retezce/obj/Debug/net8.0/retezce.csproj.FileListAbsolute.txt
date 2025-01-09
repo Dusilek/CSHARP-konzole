@@ -1,0 +1,14 @@
+C:\Users\u27pedagog\source\repos\retezce\retezce\obj\Debug\net8.0\retezce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u27pedagog\source\repos\retezce\retezce\obj\Debug\net8.0\retezce.AssemblyInfoInputs.cache
+C:\Users\u27pedagog\source\repos\retezce\retezce\obj\Debug\net8.0\retezce.AssemblyInfo.cs
+C:\Users\u27pedagog\source\repos\retezce\retezce\obj\Debug\net8.0\retezce.csproj.CoreCompileInputs.cache
+C:\Users\u27pedagog\source\repos\retezce\retezce\bin\Debug\net8.0\retezce.exe
+C:\Users\u27pedagog\source\repos\retezce\retezce\bin\Debug\net8.0\retezce.deps.json
+C:\Users\u27pedagog\source\repos\retezce\retezce\bin\Debug\net8.0\retezce.runtimeconfig.json
+C:\Users\u27pedagog\source\repos\retezce\retezce\bin\Debug\net8.0\retezce.dll
+C:\Users\u27pedagog\source\repos\retezce\retezce\bin\Debug\net8.0\retezce.pdb
+C:\Users\u27pedagog\source\repos\retezce\retezce\obj\Debug\net8.0\retezce.dll
+C:\Users\u27pedagog\source\repos\retezce\retezce\obj\Debug\net8.0\refint\retezce.dll
+C:\Users\u27pedagog\source\repos\retezce\retezce\obj\Debug\net8.0\retezce.pdb
+C:\Users\u27pedagog\source\repos\retezce\retezce\obj\Debug\net8.0\retezce.genruntimeconfig.cache
+C:\Users\u27pedagog\source\repos\retezce\retezce\obj\Debug\net8.0\ref\retezce.dll
